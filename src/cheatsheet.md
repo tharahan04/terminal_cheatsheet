@@ -31,7 +31,7 @@ Once the file that needs to be pushed on to GitHub has been located: <br>
 `git add .` - this command allows you to record the changes made 
 once it has been recorded, <br>
 `git status` - use this command to check the status of the changes before being pushed
-<br> then you can use,
+ then you can use,<br>
 `git commit -m"txt"`- to name the changes made and to be saved. <br>
 
 Finally, <br>
