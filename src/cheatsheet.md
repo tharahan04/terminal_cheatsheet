@@ -7,9 +7,11 @@
 * `mv` - moving files and folders
 * `rm` - removing files and folders
 * `pwd` - print working directory (to see where you are)
+* `touch` - touch commands to create new files
+* `open my_file.txt` - opens the text editor named file
+* 
 
->Note:appear differently 
-> 
+
 If you want to emphasize something you can use `backticks`
 
 ```
