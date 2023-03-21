@@ -40,3 +40,7 @@ Finally, <br>
 ``` 
 Use `git status` to determine whether the changes have been made and pushed on to GitHub
 ```
+**Extras**
+
+`.gitignore` - this is a command that can be used to ignore a file that has been committed before <br>
+
