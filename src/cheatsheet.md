@@ -39,5 +39,5 @@ Finally, <br>
 `git push` - the initiates the .md/.txt file to be pushed on to GitHub to be viewed online.
 
 ``` 
-Terminal should then display the number of changes made
+Use `git status` to determine whether the changes have been made and pushed on to GitHub
 ```
