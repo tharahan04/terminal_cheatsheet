@@ -3,14 +3,14 @@
 
 * `cd` - change directory 
 * `ls` - list folders and files
+* `ls -l` - list all folders and files
+* `ls -a` - 
 * `mv` - moving files and folders
-* 
 * `pwd` - print working directory (to see where you are)
 
-**Creating New File/Folders/Directories**
+**Creating New File/Folders**
 * `touch` - touch commands to create new files
-* `mkdir` - create new folder
-
+* `mkdir` - create new directories/folders
 
 **Opening Files**
 * `open my_file.txt` - opens the text editor named file <br>
@@ -21,13 +21,23 @@ The **_".txt"_** is the file type.
 
 **Copying Files**
 * `cp -r` - copies the whole directory 
-* 
 
+**Git Commands**
 
+Once the file that needs to be pushed on to GitHub has been located: <br>
+`git init` - initiates a tracker to record all changes in the directory <br>
 
-If you want to emphasize something you can use `backticks`
+**then if ANY changes are detected within the file,** <br>
 
-```
-you can enter commands/codes into here 
-<h1>title</h1>
+`git add .` - this command allows you to record the changes made 
+once it has been recorded, <br>
+`git status` - use this command to check the status of the changes before being pushed
+<br> then you can use,
+`git commit -m"txt"`- to name the changes made and to be saved. <br>
+
+Finally, <br>
+`git push` - the initiates the .md/.txt file to be pushed on to GitHub to be viewed online.
+
+``` 
+Terminal should then display the number of changes made
 ```
