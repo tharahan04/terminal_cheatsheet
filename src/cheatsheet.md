@@ -4,7 +4,6 @@
 * `cd` - change directory 
 * `ls` - list folders and files
 * `ls -l` - list all folders and files
-* `ls -a` - 
 * `mv` - moving files and folders
 * `pwd` - print working directory (to see where you are)
 
